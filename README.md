@@ -19,7 +19,7 @@ Funcionalidades
 Linguagem C++ (C++17 ou superior)
 Biblioteca gráfica SFML
 Paradigma Programação Orientada a Objetos
-Build System (coloque ex: MinGW / MSVC / CMake se usar)
+Build System (MinGW / MSVC / CMake)
 
 🔓 Uso livre
 
