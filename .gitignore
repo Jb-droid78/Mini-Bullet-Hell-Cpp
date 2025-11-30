@@ -1,0 +1,11 @@
+# IDE config
+.vscode/
+
+# Build and binary output
+bin/
+lib/
+*.exe
+*.dll
+
+# Ignore only SFML headers
+include/SFML/
