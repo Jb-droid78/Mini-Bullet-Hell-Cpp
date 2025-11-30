@@ -8,4 +8,4 @@ lib/
 *.dll
 
 # Ignore only SFML headers
-include/SFML/
+game/include/SFML/
